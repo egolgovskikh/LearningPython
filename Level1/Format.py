@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-age = 21
+age = 21  # type: int
 name = 'Jenya'
 surname = 'Golgovskikh'
 
